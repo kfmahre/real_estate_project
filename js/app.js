@@ -39,9 +39,9 @@
       rooms: 4,
       canPurchase: true,
       images: [
-        "/images/house1-1.jpg",
-        "/images/house1-2.jpg",
-        "/images/house1-3.jpg"
+        "/real_estate_project/images/house1-1.jpg",
+        "/real_estate_project/images/house1-2.jpg",
+        "/real_estate_project/images/house1-3.jpg"
       ],
       reviews: [{
         stars: 5,
@@ -65,8 +65,8 @@
       rooms: 3,
       canPurchase: true,
       images: [
-        "/images/house2-1.jpg",
-        "/images/house2-2.jpg",
+        "/real_estate_project/images/house2-1.jpg",
+        "/real_estate_project/images/house2-2.jpg",
       ],
       reviews: [{
         stars: 3,
@@ -90,9 +90,9 @@
       rooms: 4,
       canPurchase: true,
       images: [
-        "/images/house3-1.jpg",
-        "/images/house3-2.jpg",
-        "/images/house3-3.jpg"
+        "/real_estate_project/images/house3-1.jpg",
+        "/real_estate_project/images/house3-2.jpg",
+        "/real_estate_project/images/house3-3.jpg"
       ],
       reviews: [{
         stars: 1,
