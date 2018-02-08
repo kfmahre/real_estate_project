@@ -56,7 +56,7 @@
       }]
     },
     {
-      name: 'Bloodstone',
+      name: '3 Car Garadge',
       description: "Origin of the Bloodstone is unknown, hence its low value. It has a very high shine and 12 sides, however.",
       neighborhood: 'Mordor',
       price: 122090,
@@ -81,7 +81,7 @@
       }]
     },
     {
-      name: 'Zircon',
+      name: 'Great Parks Nearby',
       description: "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
       neighborhood: 'Lilly Vally',
       price: 111000,
